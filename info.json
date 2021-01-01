@@ -1,0 +1,13 @@
+{
+    "name": "finite-oil",
+    "version": "1.0.0",
+    "title": "Finite Oil",
+    "author": "Porkchop13",
+    "factorio_version": "1.0",
+    "dependencies": [
+        "base >= 1.0",
+        "? cargo-ships >= 0.0.56",
+        "! Krastorio2"
+    ],
+    "description": "Makes oil finite."
+}
