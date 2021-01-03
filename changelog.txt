@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2021.01.03
+  Changes:
+    - Lower Cargo Ships dependency to working version.
+    - Add handling for oil not present as a resource.
+    - Tweak oil extraction rate.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2021.01.01
   New Features:
