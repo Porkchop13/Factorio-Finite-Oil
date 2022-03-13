@@ -2,7 +2,7 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Porkchop13/Factorio-Finite-Oil/Lint?label=lint)
 ![GitHub](https://img.shields.io/github/license/Porkchop13/Factorio-Finite-Oil)
 
-# Factorio-Finite-Oil
+# Finite Oil
 
 Factorio mod making oil finite and run out
 
