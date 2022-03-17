@@ -10,7 +10,7 @@ on:
 
 jobs:
   lint:
-    uses: ./.github/workflows/lint.yaml
+    uses: ./.github/workflows/lint.yml
   publish:
     runs-on: ubuntu-latest
     needs: [lint]
